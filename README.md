@@ -21,7 +21,8 @@
 <details hide>
     <sumary>Ultimas aportaciones</sumary>
     <code>
-        - [isaacfloresv/RecordSchool](https://github.com/isaacfloresv/RecordSchool) ![Last commit](https://img.shields.io/github/last-commit/isaacfloresv/RecordSchool?style=flat-square)
+        <p>- [isaacfloresv/RecordSchool](https://github.com/isaacfloresv/RecordSchool) ![Last commit](https://img.shields.io/github/last-commit/isaacfloresv/RecordSchool?style=flat-square)</p>
     </code>
+    
 </details>
 <body>
