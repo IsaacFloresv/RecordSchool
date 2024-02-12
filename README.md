@@ -21,7 +21,7 @@
 <details hide>
     <sumary>Ultimas aportaciones</sumary>
     <code>
-        - [aanton/adventjs](https://github.com/No-Country/c16-29-n-node-react) ![Last commit](https://img.shields.io/github/last-commit/No-Country/c16-29-n-node-react?style=flat-square)
+        - [isaacfloresv/RecordSchool](https://github.com/isaacfloresv/RecordSchool) ![Last commit](https://img.shields.io/github/last-commit/isaacfloresv/RecordSchool?style=flat-square)
     </code>
 </details>
 <body>
