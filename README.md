@@ -8,8 +8,8 @@
     <code></code>
 </details>
 
-<details hide>
-    <sumary>Participantes</sumary>
+<details hide>Participantes
+    <sumary></sumary>
     <code></code>
 </details>
 
